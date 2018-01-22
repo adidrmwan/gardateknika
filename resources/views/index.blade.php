@@ -13,6 +13,23 @@
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
 <link rel="stylesheet" type="text/css" href="css/main_styles.css">
 <link rel="stylesheet" type="text/css" href="css/responsive.css">
+
+<style>
+.parallax {
+    /* The image used */
+    background-image: url("images/slider_1.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+</style>
 </head>
 
 <body>
@@ -244,12 +261,12 @@
 	
 	<!-- Best Sellers -->
 
-	<div class="best_sellers">
+	<div class="best_sellers parallax" style="margin-top: 3%;">
 		<div class="container">
 			<div class="row">
 				<div class="col text-center">
 					<div class="section_title new_arrivals_title">
-						<h2>Best Sellers</h2>
+						<h2 style="color: white;">Best Sellers</h2>
 					</div>
 				</div>
 			</div>
@@ -542,15 +559,28 @@
 	<!-- Newsletter -->
 
 	<div class="newsletter">
-		<div class="container">
+		<div style="padding: 0 100px;">
 			<div class="row">
-				<div class="col-lg-6">
+				<div class="col-lg-3">
+					<div class="newsletter_text d-flex flex-column justify-content-center align-items-lg-start align-items-md-center text-center">
+						<div class="logo_container">
+							<img src="images/logo.png" class="logo">
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3">
+					<div class="newsletter_text d-flex flex-column justify-content-center align-items-lg-start align-items-md-center text-center">
+						<h4>About Garda Teknika</h4>
+						<p>Garda Teknika provides cutting edge technologies for universities, industries as well as research institutions. Our products are widely used in material research, metallurgy, energetic materials tests, animal research, chemical, biology and educations. </p>
+					</div>
+				</div>
+				<div class="col-lg-3">
 					<div class="newsletter_text d-flex flex-column justify-content-center align-items-lg-start align-items-md-center text-center">
 						<h4>Newsletter</h4>
 						<p>Subscribe to our newsletter and get 20% off your first purchase</p>
 					</div>
 				</div>
-				<div class="col-lg-6">
+				<div class="col-lg-3">
 					<form action="post">
 						<div class="newsletter_form d-flex flex-md-row flex-column flex-xs-column align-items-center justify-content-lg-end justify-content-center">
 							<input id="newsletter_email" type="email" placeholder="Your email" required="required" data-error="Valid email is required.">
