@@ -896,7 +896,7 @@ section
 .banner
 {
 	width: 100%;
-	margin-top: 30px;
+	margin-top: 50px;
 }
 .banner_item
 {
@@ -912,6 +912,7 @@ section
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
+	margin-bottom: 25px;
 }
 .banner_category
 {
@@ -920,6 +921,7 @@ section
 	min-width: 180px;
 	padding-left: 25px;
 	padding-right: 25px;
+
 }
 .banner_category a
 {
