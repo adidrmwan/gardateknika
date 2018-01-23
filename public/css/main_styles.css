@@ -288,6 +288,15 @@ section
 	margin-right: 20px;
 }
 
+.logo_footer {
+	max-width: 190px;
+	padding: 15px 0;
+	float: none;
+	position: relative;
+	display: block;
+	margin: 0 auto;
+}
+
 /*********************************
 3.1 Currency
 *********************************/
@@ -1544,18 +1553,30 @@ section
 }
 .newsletter_text
 {
-	height: 140px;
+	height: auto;
 }
 .newsletter_text h4
 {
 	margin-bottom: 0px;
 	line-height: 24px;
+	padding: 15px 0;
+	text-align: center;
 }
 .newsletter_text p
 {
 	margin-bottom: 0px;
 	line-height: 1.7;
 	color: #51545f;
+	padding-bottom: 15px;
+	text-align: justify;
+}
+.newsletter_text i {
+	padding: 0 15px;
+	margin-left: 50px;
+}
+.newsletter_text a {
+	text-decoration: none;
+	color: black;
 }
 .newsletter_form
 {
@@ -1631,7 +1652,8 @@ section
 
 .footer_nav_container
 {
-	height: 50px;
+	height: auto;
+	padding: 20px 0;
 }
 .cr
 {
