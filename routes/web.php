@@ -13,4 +13,12 @@
 
 Route::get('/', function () {
     return view('index');
-});
+})->name('home');
+
+Route::get('/home','PageController@home')->name('home');
+Route::get('/about','PageController@about')->name('about');
+Route::get('/structure','PageController@structure')->name('structure');
+Route::get('/machines','PageController@machines')->name('machines');
+Route::get('/laboratory','PageController@laboratory')->name('laboratory');
+Route::get('/conference','PageController@conference')->name('conference');
+Route::get('/contact','PageController@contact')->name('contact');
