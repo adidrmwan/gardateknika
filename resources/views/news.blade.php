@@ -14,7 +14,7 @@
 				<div class="breadcrumbs d-flex flex-row align-items-center">
 					<ul>
 						<li><a href="home">Home</a></li>
-						<li class="active"><a href="about"><i class="fa fa-angle-right" aria-hidden="true"></i>About Garda Teknika</a></li>
+						<li class="active"><a href="about"><i class="fa fa-angle-right" aria-hidden="true"></i>News and Events</a></li>
 					</ul>
 				</div>
 
@@ -27,7 +27,7 @@
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
 							<div class="single_product_image">
-								<div class="single_product_image_background" style="background-image:url(images/slider_2.jpg)"></div>
+								<div class="single_product_image_background" style="background-image:url(images/slider_3.jpg)"></div>
 							</div>
 						</div>
 					</div>
@@ -36,7 +36,7 @@
 			<div class="col-lg-5">
 				<div class="product_details">
 					<div class="product_details_title">
-						<h2>Garda Teknika</h2>
+						<h2>Press Release Garda Teknika</h2>
 						<p>
 							Garda Teknika is established to meet the increasing demand of high quality scientific and laboratory equipments. <br> <br>
 

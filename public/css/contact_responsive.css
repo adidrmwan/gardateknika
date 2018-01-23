@@ -328,7 +328,10 @@
 
 @media only screen and (max-width: 539px)
 {
-	
+	.google_maps {
+		width: 400px;
+		height: 600px;
+	}
 }
 
 /************
@@ -337,7 +340,10 @@
 
 @media only screen and (max-width: 480px)
 {
-	
+	.google_maps {
+		width: 400px;
+		height: 600px;
+	}
 }
 
 /************
@@ -481,6 +487,10 @@
 	{
 		margin-top: 5px;
 		margin-bottom: 30px;
+	}
+	.google_maps {
+		width: 400px;
+		height: 600px;
 	}
 }
 

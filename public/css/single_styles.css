@@ -270,7 +270,7 @@ section
 {
 	width: 100%;
 	height: 50px;
-	background: #1e1e27;
+	background: #FFFFFF;
 }
 .top_nav_left
 {
@@ -884,6 +884,7 @@ section
 .product_details_title p
 {
 	color: #;
+	text-align: justify;
 }
 
 /*********************************
@@ -1450,18 +1451,30 @@ section
 }
 .newsletter_text
 {
-	height: 120px;
+	height: auto;
 }
 .newsletter_text h4
 {
 	margin-bottom: 0px;
 	line-height: 24px;
+	padding: 15px 0;
+	text-align: center;
 }
 .newsletter_text p
 {
 	margin-bottom: 0px;
 	line-height: 1.7;
 	color: #51545f;
+	padding-bottom: 15px;
+	text-align: justify;
+}
+.newsletter_text i {
+	padding: 0 15px;
+	margin-left: 50px;
+}
+.newsletter_text a {
+	text-decoration: none;
+	color: black;
 }
 .newsletter_form
 {
@@ -1484,31 +1497,31 @@ section
 {
 	outline: none !important;
 }
-::-webkit-input-placeholder
+#newsletter_email::-webkit-input-placeholder
 {
 	font-size: 14px !important;
 	font-weight: 400;
 	color: #b9b4c7 !important;
 }
-:-moz-placeholder /* older Firefox*/
+#newsletter_email:-moz-placeholder /* older Firefox*/
 {
 	font-size: 14px !important;
 	font-weight: 400;
 	color: #b9b4c7 !important;
 }
-::-moz-placeholder /* Firefox 19+ */
+#newsletter_email::-moz-placeholder /* Firefox 19+ */
 {
 	font-size: 14px !important;
 	font-weight: 400;
 	color: #b9b4c7 !important;
 }
-:-ms-input-placeholder
+#newsletter_email:-ms-input-placeholder
 {
 	font-size: 14px !important;
 	font-weight: 400;
 	color: #b9b4c7 !important;
 }
-::input-placeholder
+#newsletter_email::input-placeholder
 {
 	font-size: 14px !important;
 	font-weight: 400;
@@ -1537,7 +1550,8 @@ section
 
 .footer_nav_container
 {
-	height: 130px;
+	height: auto;
+	padding: 20px 0;
 }
 .cr
 {
@@ -1569,7 +1583,7 @@ section
 }
 .footer_social
 {
-	height: 130px;
+	height: 50px;
 }
 .footer_social ul li
 {

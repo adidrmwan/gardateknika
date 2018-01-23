@@ -19,24 +19,38 @@ class PageController extends Controller
 		return view('about');
 	}
 
-	public function structure()
+	public function newsandevent()
 	{
-		return view('struktur');
-	}
-		public function machines()
-	{
-		return view('machines');
-	}
-	public function laboratory()
-	{
-		return view('laboratory');
-	}
-	public function conference()
-	{
-		return view('conference');
+		return view('news');
 	}
 	public function contact()
 	{
 		return view('contact');
 	}
+	// product
+	public function material_research()
+	{
+		return view('research');
+	}
+	public function energetic_materials()
+	{
+		return view('energetic');
+	}
+	public function general_equipments()
+	{
+		return view('equipments');
+	}
+		public function enviromental()
+	{
+		return view('enviromental');
+	}
+	public function food_and_agriculture()
+	{
+		return view('food');
+	}
+	public function pharmaceuticals()
+	{
+		return view('pharmaceuticals');
+	}
+
 }

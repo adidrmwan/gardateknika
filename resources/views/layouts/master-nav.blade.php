@@ -32,7 +32,7 @@
 								    </a>
 								    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 								      <a class="dropdown-item" href="about">about garda teknika</a>
-								      <a class="dropdown-item" href="#">News and events</a>
+								      <a class="dropdown-item" href="newsandevent">News and events</a>
 								    </div>
 							    </li>
 								<li class="nav-item dropdown">
@@ -40,7 +40,7 @@
 								      products
 								    </a>
 								    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-								      <a class="dropdown-item" href="#">Material Reasearch</a>
+								      <a class="dropdown-item" href="material_research">Material Reasearch</a>
 								      <a class="dropdown-item" href="#">Energetic Materials</a>
 								      <a class="dropdown-item" href="#">General Equipments</a>
 								      <a class="dropdown-item" href="#">Enviromental</a>
@@ -48,7 +48,7 @@
 								      <a class="dropdown-item" href="#">Pharmaceuticals</a>
 								    </div>
 							    </li>
-								<li><a href="#">contact us</a></li>
+								<li><a href="contact">contact us</a></li>
 							</ul>
 							<div class="hamburger_container">
 								<i class="fa fa-bars" aria-hidden="true"></i>
