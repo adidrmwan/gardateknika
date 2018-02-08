@@ -28,29 +28,37 @@ class PageController extends Controller
 		return view('contact');
 	}
 	// product
-	public function material_research()
+	public function material_testing()
 	{
-		return view('research');
+		return view('testing');
 	}
-	public function energetic_materials()
+	public function material_characterization()
 	{
-		return view('energetic');
+		return view('characterization');
 	}
-	public function general_equipments()
+	public function nondistructivetest()
 	{
-		return view('equipments');
+		return view('ndt');
 	}
-		public function enviromental()
+		public function agriculture()
 	{
-		return view('enviromental');
+		return view('agriculture');
 	}
-	public function food_and_agriculture()
+	public function automation_system()
 	{
-		return view('food');
+		return view('automation');
 	}
-	public function pharmaceuticals()
+	public function Engineering()
 	{
-		return view('pharmaceuticals');
+		return view('Engineering');
+	}
+	public function medicine()
+	{
+		return view('medicine');
+	}
+	public function foodtech()
+	{
+		return view('foodtech');
 	}
 
 }

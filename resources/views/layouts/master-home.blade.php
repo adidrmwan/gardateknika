@@ -17,6 +17,26 @@
 	<link rel="stylesheet" type="text/css" href="css/single_styles.css">
 	<link rel="stylesheet" type="text/css" href="css/contact_responsive.css">
 	<link rel="stylesheet" type="text/css" href="css/contact_styles.css">
+
+	<style type="text/css">
+	.dropdown-submenu {
+	  position: relative;
+	}
+
+	.dropdown-submenu a::after {
+	  transform: rotate(-90deg);
+	  position: absolute;
+	  right: 6px;
+	  top: .8em;
+	}
+
+	.dropdown-submenu .dropdown-menu {
+	  top: 0;
+	  left: 100%;
+	  margin-left: .1rem;
+	  margin-right: .1rem;
+	}
+	</style>
 </head>
 
 <body>
@@ -31,7 +51,24 @@
 <script src="plugins/Isotope/isotope.pkgd.min.js"></script>
 <script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
 <script src="plugins/easing/easing.js"></script>
+<script type="text/javascript">
 
+$('.dropdown-menu a.dropdown-toggle').on('click', function(e) {
+  if (!$(this).next().hasClass('show')) {
+    $(this).parents('.dropdown-menu').first().find('.show').removeClass("show");
+  }
+  var $subMenu = $(this).next(".dropdown-menu");
+  $subMenu.toggleClass('show');
+
+
+  $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function(e) {
+    $('.dropdown-submenu .show').removeClass("show");
+  });
+
+
+  return false;
+});
+</script>
 </body>
 
 </html>

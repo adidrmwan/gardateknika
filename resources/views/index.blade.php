@@ -84,51 +84,51 @@
 				<div class="col-md-4">
 					<div class="banner_item align-items-center" style="background-image:url(images/banner_1.jpeg)">
 						<div class="banner_category">
-							<a href="categories.html">Material Research</a>
+							<a href="categories.html">Material Reasearch</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="banner_item align-items-center" style="background-image:url(images/banner_2.jpeg)">
 						<div class="banner_category">
-							<a href="categories.html">Energetic Materials</a>
+							<a href="categories.html" style="font-size: 20px;">Non Distructive Test (NDT)</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="banner_item align-items-center" style="background-image:url(images/banner_3.jpg)">
 						<div class="banner_category">
-							<a href="categories.html">General Equipments</a>
+							<a href="categories.html">Agriculture</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="banner_item align-items-center" style="background-image:url(images/banner_4.jpg)">
 						<div class="banner_category">
-							<a href="categories.html">Enviromental</a>
+							<a href="categories.html" >Automation System</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="banner_item align-items-center" style="background-image:url(images/banner_5.jpg)">
 						<div class="banner_category">
-							<a href="categories.html">Food and Agriculture</a>
+							<a href="categories.html">Education</a>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
+<!-- 				<div class="col-md-4">
 					<div class="banner_item align-items-center" style="background-image:url(images/banner_6.jpg)">
 						<div class="banner_category">
-							<a href="categories.html">Pharmaceuticals</a>
+							<a href="categories.html">Preparation Sample</a>
 						</div>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
 
 	<!-- Benefit -->
-
+<!-- 
 	<div class="benefit">
 		<div class="container">
 			<div class="row benefit_row">
@@ -170,7 +170,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<!-- Blogs -->
 
@@ -184,7 +184,7 @@
 				</div>
 			</div>
 			<div class="row blogs_container">
-				<div class="col-lg-4 blog_item_col">
+				<!-- <div class="col-lg-4 blog_item_col">
 					<div class="blog_item">
 						<div class="blog_background" style="background-image:url(images/banner_1.jpeg)"></div>
 						<div class="blog_content d-flex flex-column align-items-center justify-content-center text-center">
@@ -213,6 +213,9 @@
 							<a class="blog_more" href="#">Read more</a>
 						</div>
 					</div>
+				</div> -->
+
+				<div>
 				</div>
 			</div>
 		</div>

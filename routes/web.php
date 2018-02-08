@@ -19,9 +19,14 @@ Route::get('/home','PageController@home')->name('home');
 Route::get('/about','PageController@about')->name('about');
 Route::get('/newsandevent','PageController@newsandevent')->name('newsandevent');
 Route::get('/contact','PageController@contact')->name('contact');
-Route::get('/material_research','PageController@material_research')->name('material_research');
-Route::get('/energetic_materials','PageController@energetic_materials')->name('energetic_materials');
-Route::get('/general_equipments','PageController@general_equipments')->name('general_equipments');
-Route::get('/enviromental','PageController@enviromental')->name('enviromental');
-Route::get('/food_and_agriculture','PageController@food_and_agriculture')->name('food_and_agriculture');
-Route::get('/pharmaceuticals','PageController@pharmaceuticals')->name('pharmaceuticals');
+Route::get('/material_testing','PageController@material_testing')->name('material_testing');
+Route::get('/material_characterization','PageController@material_characterization')->name('material_characterization');
+Route::get('/nondistructivetest','PageController@nondistructivetest')->name('nondistructivetest');
+Route::get('/agriculture','PageController@agriculture')->name('agriculture');
+Route::get('/automation_system','PageController@automation_system')->name('automation_system');
+Route::get('/Engineering','PageController@Engineering')->name('Engineering');
+Route::get('/medicine','PageController@medicine')->name('medicine');
+Route::get('/foodtech','PageController@foodtech')->name('foodtech');
+
+
+// Route::get('/language')
