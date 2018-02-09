@@ -26,27 +26,72 @@
 	</div>
 		<div class="container" style="margin-top: -80px;">
 			<div class="row">
-				<div class="col-md-4">
-					<div class="banner_item align-items-center" style="background-image:url(images/banner_1.jpeg)">
-						<div class="banner_category">
-							<a href="http://karldeutsch.de">Karl Deutsch</a>
+				<div class="col-lg-6" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image">
+								<div class="single_product_image_background" style="background-image:url(images/karl_product.png)"></div>
+							</div>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
-					<div class="banner_item align-items-center" style="background-image:url(images/banner_2.jpeg)">
-						<div class="banner_category">
-							<a href="http://eddyfi.com">EDDYFI</a>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2>Name of Product</h2>
+						<p>
+							Description of Karl Deutsch's Product<br>
+							<a href="http://karldeutsch.de">Click here for more info</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image">
+								<div class="single_product_image_background" style="background-image:url(images/eddyfi_product.png)"></div>
+							</div>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
-					<div class="banner_item align-items-center" style="background-image:url(images/banner_3.jpg)">
-						<div class="banner_category">
-							<a href="http://efer.com">Ever NDT Vision</a>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2>Name of Product</h2>
+						<p>
+							Description of EDDYFI's Product<br>
+							<a href="http://eddyfi.com">Click here for more info</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image">
+								<div class="single_product_image_background" style="background-image:url(images/efer_product.png)"></div>
+							</div>
 						</div>
 					</div>
 				</div>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2>Name of Product</h2>
+						<p>
+							Description of Efer NDT Vision's Product<br>
+							<a href="http://efer.com">Click here for more info</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
 			</div>
 		</div>
 </div>

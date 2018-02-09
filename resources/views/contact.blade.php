@@ -29,7 +29,8 @@
 					<div class="map_container">
 						<div id="map">
 							<div class="google_maps">
-			                 	<iframe width="1120" height="505" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Jl.%20Teknik%20Kimia%2C%20Keputih%2C%20Sukolilo%2C%20Kota%20SBY%2C%20Jawa%20Timur%2060117&key=AIzaSyABjK2aUEvhS01nOGom8SGAFGXCWxcrW-E"  class="google_maps" allowfullscreen></iframe>  
+								<iframe width="1120" height="505" frameborder="0" style="border:0"
+								src="https://www.google.com/maps/embed/v1/place?q=JL.+Brawijaya+No.+209+Pungging+Mojokerto+:+61483&key= AIzaSyBLj6Lb52RueYReX9vdaeEdMOmONs545xE " allowfullscreen></iframe> 
 			             	</div>
 						</div>
 					</div>
@@ -41,23 +42,22 @@
 
 		<div class="row">
 
-			<div class="col-lg-6 contact_col">
+			<div class="col-lg-12 contact_col">
 				<div class="contact_contents">
 					<h1>Contact Us</h1>
 					<p>There are many ways to contact us. You may drop us a line, give us a call or send an email, choose what suits you the most.</p>
 					<div>
-						<p>(800) 686-6688</p>
-						<p>info@gardateknika.com</p>
-					</div>
-					<div>
-						<p>Open hours: 8.00-18.00 Mon-Fri</p>
-						<p>Sunday: Closed</p>
+						<p><i class="fa fa-phone" aria-hidden="true"></i>
+							(+62) 321 685 0941
+						</p>
+						<p><i class="fa fa-envelope" aria-hidden="true"></i>
+						support@gardateknika.com</p>
 					</div>
 				</div>
 
 				<!-- Follow Us -->
 			</div>
-
+<!-- 
 			<div class="col-lg-6 get_in_touch_col">
 				<div class="get_in_touch_contents">
 					<h1>Get In Touch With Us!</h1>
@@ -74,7 +74,7 @@
 						</div>
 					</form>
 				</div>
-			</div>
+			</div> -->
 
 		</div>
 	</div>

@@ -1400,7 +1400,7 @@ section
 }
 .parallax {
     /* The image used */
-    background-image: url("../images/slider_1.jpg");
+    background-image: url("../images/news.jpg");
 
     /* Set a specific height */
     min-height: 500px; 

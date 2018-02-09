@@ -36,14 +36,8 @@
 			<div class="col-lg-5">
 				<div class="product_details">
 					<div class="product_details_title">
-						<h2>Garda Teknika</h2>
-						<p>
-							Garda Teknika is established to meet the increasing demand of high quality scientific and laboratory equipments. <br> <br>
-
-							We provide cutting edge technologies for universities, industries as well as research institutions. Our products are widely used in material research, metallurgy, energetic materials tests, animal research, chemical, biology and educations. <br> <br>
-
-							Bringing the best services and solutions to our customers is our ultimate goal. Should you not be able to obtain any product information in our website, please do not hesitate to contact us.
-						</p>
+						<h2>PT. Garda Teknika</h2>
+						<p>PT. GARDA <span style="color: #fe4c50;"> TEKNIKA </span> is a company with extensive experience in the instrumentation products for measurement, monitoring and Quality control. <br>Our products and control systems bring enormous advantages to industry and also education with greater effectiveness in the implementation of industrial processes and as a direct result the client takes advantage of a greater performance and higher profitability of the available means. </p>
 					</div>
 				</div>
 			</div>

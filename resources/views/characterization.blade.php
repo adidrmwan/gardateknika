@@ -27,34 +27,50 @@
 	</div>
 		<div class="container" style="margin-top: -80px;">
 			<div class="row">
-				<div class="col-md-6">
-					<div class="banner_item align-items-center" style="background-image:url(images/banner_1.jpeg)">
-						<div class="banner_category">
-							<a href="http://perkinelmer.com">Perkin Elmer</a>
+			<div class="col-lg-6" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image">
+								<div class="single_product_image_background" style="background-image:url(images/pmi_product.png)"></div>
+							</div>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6">
-					<div class="banner_item align-items-center" style="background-image:url(images/banner_2.jpeg)">
-						<div class="banner_category">
-							<a href="http://pmiapp.com">PMI</a>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2>Name of Product</h2>
+						<p>
+							Description of PMI's Product<br>
+							<a href="http://pmiapp.com">Click here for more info</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-6">
+				<div class="single_product_pics">
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image">
+								<div class="single_product_image_background" style="background-image:url(images/coxem_product.png)"></div>
+							</div>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6">
-					<div class="banner_item align-items-center" style="background-image:url(images/banner_3.jpg)">
-						<div class="banner_category">
-							<a href="http://rigaku.com">RIGAKU</a>
-						</div>
+				<div class="product_details">
+					<div class="product_details_title">
+						<h2>Name of Product</h2>
+						<p>
+							Description of Coxem's Product <br>
+							<a href="http://coxem.com">Click here for more info</a>
+						</p>
+
 					</div>
 				</div>
-				<div class="col-md-6">
-					<div class="banner_item align-items-center" style="background-image:url(images/banner_4.jpg)">
-						<div class="banner_category">
-							<a href="http://coxem.com" >COXEM</a>
-						</div>
-					</div>
-				</div>
+			</div>
 			</div>
 		</div>
 </div>

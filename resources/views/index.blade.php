@@ -26,9 +26,9 @@
 						<div class="row align-items-center fill_height">
 							<div class="col">
 								<div class="main_slider_content">
-									<h6>Spring / Summer Collection 2017</h6>
-									<h1>Get up to 30% Off New Arrivals</h1>
-									<div class="red_button shop_now_button"><a href="#">shop now</a></div>
+									<h6 style="color: white;">PT. GARDA <span style="color: #fe4c50;"><b> TEKNIKA</b> </span></h6>
+									<h1 style="color: white;">Higher <br>Profitability</h1>
+									<div class="red_button shop_now_button"><a href="#type-product">shop now</a></div>
 								</div>
 							</div>
 						</div>
@@ -41,9 +41,9 @@
 						<div class="row align-items-center fill_height">
 							<div class="col">
 								<div class="main_slider_content">
-									<h6 style="color: white;">Spring / Summer Collection 2017</h6>
-									<h1 style="color: white;">Get up to 30% Off New Arrivals</h1>
-									<div class="red_button shop_now_button"><a href="#">shop now</a></div>
+									<h6 style="color: white;">PT. GARDA <span style="color: #fe4c50;"><b> TEKNIKA</b> </span></h6>
+									<h1 style="color: white;">Extensive Experience</h1>
+									<div class="red_button shop_now_button"><a href="#type-product">shop now</a></div>
 								</div>
 							</div>
 						</div>
@@ -56,9 +56,9 @@
 						<div class="row align-items-center fill_height">
 							<div class="col">
 								<div class="main_slider_content">
-									<h6 style="color: white;">Spring / Summer Collection 2017</h6>
-									<h1 style="color: white;">Get up to 30% Off New Arrivals</h1>
-									<div class="red_button shop_now_button"><a href="#">shop now</a></div>
+									<h6 style="color: white;">PT. GARDA <span style="color: #fe4c50;"><b> TEKNIKA</b> </span></h6>
+									<h1 style="color: white;">Greater Performance</h1>
+									<div class="red_button shop_now_button"><a href="#type-product">shop now</a></div>
 								</div>
 							</div>
 						</div>
@@ -78,51 +78,44 @@
 
 	<!-- Banner -->
 
-	<div class="banner">
+	<div class="banner" style="margin-top: 6%;" id="type-product">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
 					<div class="banner_item align-items-center" style="background-image:url(images/banner_1.jpeg)">
 						<div class="banner_category">
-							<a href="categories.html">Material Reasearch</a>
+							<a href="#">Material Research</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="banner_item align-items-center" style="background-image:url(images/banner_2.jpeg)">
 						<div class="banner_category">
-							<a href="categories.html" style="font-size: 20px;">Non Distructive Test (NDT)</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="banner_item align-items-center" style="background-image:url(images/banner_3.jpg)">
-						<div class="banner_category">
-							<a href="categories.html">Agriculture</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="banner_item align-items-center" style="background-image:url(images/banner_4.jpg)">
-						<div class="banner_category">
-							<a href="categories.html" >Automation System</a>
+							<a href="nondistructivetest" style="font-size: 20px;">Non Distructive Test (NDT)</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="banner_item align-items-center" style="background-image:url(images/banner_5.jpg)">
 						<div class="banner_category">
-							<a href="categories.html">Education</a>
+							<a href="agriculture">Agriculture</a>
 						</div>
 					</div>
 				</div>
-<!-- 				<div class="col-md-4">
-					<div class="banner_item align-items-center" style="background-image:url(images/banner_6.jpg)">
+				<div class="col-md-4">
+					<div class="banner_item align-items-center" style="background-image:url(images/banner_4.jpg)">
 						<div class="banner_category">
-							<a href="categories.html">Preparation Sample</a>
+							<a href="automation_system" >Automation System</a>
 						</div>
 					</div>
-				</div> -->
+				</div>
+				<div class="col-md-4">
+					<div class="banner_item align-items-center" style="background-image:url(images/banner_3.jpg)">
+						<div class="banner_category">
+							<a href="#">Education</a>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -179,11 +172,15 @@
 			<div class="row">
 				<div class="col text-center">
 					<div class="section_title">
-						<h2 style="margin-top: 8%;">Latest Blogs</h2>
+						<h2 style="margin-top: 8%;color: white;">Latest Blogs</h2>
 					</div>
 				</div>
 			</div>
 			<div class="row blogs_container">
+
+				<div class="banner_category" style="margin: 0 auto; display: block; float: none;">
+					<a >no upcoming events and news</a>
+				</div>
 				<!-- <div class="col-lg-4 blog_item_col">
 					<div class="blog_item">
 						<div class="blog_background" style="background-image:url(images/banner_1.jpeg)"></div>

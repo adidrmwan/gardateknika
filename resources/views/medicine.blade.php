@@ -26,13 +26,28 @@
 	</div>
 		<div class="container" style="margin-top: -80px;">
 			<div class="row">
-				<div class="col-md-6">
-					<div class="banner_item align-items-center" style="background-image:url(images/banner_1.jpeg)">
-						<div class="banner_category">
-							<a href="http://labequipmentssuppliers.com">ZEEDO</a>
+			<div class="col-lg-6" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image">
+								<div class="single_product_image_background" style="background-image:url(images/quanser_product.png)"></div>
+							</div>
 						</div>
 					</div>
 				</div>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2>Name of Product</h2>
+						<p>
+							Description of Zeedo's Product<br>
+							<a href="http://labequipmentssuppliers.com">Click here for more info</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
 			</div>
 		</div>
 </div>
