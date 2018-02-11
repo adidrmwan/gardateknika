@@ -60,5 +60,13 @@ class PageController extends Controller
 	{
 		return view('foodtech');
 	}
+		public function measurement_system()
+	{
+		return view('measurement');
+	}
+	public function energy()
+	{
+		return view('energy');
+	}
 
 }

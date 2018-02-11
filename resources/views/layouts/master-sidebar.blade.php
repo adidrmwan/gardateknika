@@ -33,6 +33,7 @@
 						<li><a href="nondistructivetest">Non Distructive Test (NDT)</a></li>
 						<li><a href="agriculture">Agriculture</a></li>
 						<li><a href="automation_system">Automation System</a></li>
+						<li><a href="measurement_system">Measurement System</a></li>
 						<li class="menu_item has-children" >
 							<a href="#">Education
 								<i class="fa fa-angle-down"></i>
@@ -44,6 +45,7 @@
 							</ul>
 
 						</li>
+						<li><a href="energy">Energy</a></li>
 					</ul>
 				</li>
 				<li class="menu_item"><a href="contact">contact us</a></li>

@@ -31,7 +31,7 @@
 				<div class="single_product_pics" >
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
-							<div class="single_product_image">
+							<div class="single_product_image mid-product">
 								<div class="single_product_image_background" style="background-image:url(images/quanser_product.png)"></div>
 							</div>
 						</div>
@@ -39,10 +39,10 @@
 				</div>
 				<div class="product_details" >
 					<div class="product_details_title">
-						<h2>Name of Product</h2>
+						<h2 class="p-center">Mechanical Engineering Simulator : 3 DOF Crane</h2>
 						<p>
-							Description of Quanser's Product<br>
-							<a href="http://quanser.com">Click here for more info</a>
+							PT GARDA TEKNIKA as Distributor of QUANSER in Indonesia present : 3DOF Crane - Teach students about the real-life control challenges involved in operating a tower crane Commonly used to build structures, tower cranes are designed to lift and move heavy objects over large distances safely. Operating them requires training and skills. The 3 DOF Crane experiment replicates much of the functionality of an actual tower crane and can be used to understand the dynamics and control challenges involved in everyday crane operations. For instance, the challenge of minimizing the motions of the load being carried introduces a great control problem for students.<br><br>
+							<a href="http://quanser.com">More detail click here</a>
 						</p>
 
 					</div>

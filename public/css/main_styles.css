@@ -898,6 +898,16 @@ section
 	margin-top: 32px;
 }
 
+.mid-product {
+	margin: 0 auto; 
+	float: none; 
+	display: block; 
+	position: relative;
+}
+.p-center {
+	text-align: center;
+}
+
 /*********************************
 4. Banner
 *********************************/

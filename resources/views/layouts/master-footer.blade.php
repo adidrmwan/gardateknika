@@ -37,6 +37,9 @@
 								<a href="automation_system">Automation System</a>
 							</li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>
+								<a href="measurement_system">Measurement System</a>
+							</li>
+							<li><i class="fa fa-circle" aria-hidden="true"></i>
 								<a href="#">Education</a>
 								<ul style="margin-left: 15px;">
 									<li><i class="fa fa-circle-o" aria-hidden="true"></i>
@@ -49,6 +52,9 @@
 										<a href="foodtech">Food Tech</a>
 									</li>
 								</ul>
+							</li>
+							<li><i class="fa fa-circle" aria-hidden="true"></i>
+								<a href="energy">Energy</a>
 							</li>
 						</ul>
 					</div>

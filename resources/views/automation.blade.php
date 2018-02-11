@@ -29,17 +29,17 @@
 			<div class="col-lg-6" >
 				<div class="row">
 					<div class="col-lg-12 image_col order-lg-2 order-1">
-					<div class="single_product_image">
+					<div class="single_product_image mid-product">
 								<div class="single_product_image_background" style="background-image:url(images/dfmc_product.png)"></div>
 							</div>
 						</div>
 					</div>
 					<div class="product_details" >
 					<div class="product_details_title">
-						<h2>Name of Product</h2>
+						<h2 class="p-center">DF-5754 Offline Coal Ash Analyzer</h2>
 						<p>
-							Description of CMFD's Product<br>
-							<a href="http://dfmc.com">Click here for more info</a>
+							PT. GARDA TEKNIKA as the Authorize Distributor provides : DFMC Dongfang Measurement and Control Technology Co., Ltd, it features one hi-tech company combining instrument and apparatus research and development, software development and system integration together, offering production informatization solutions and carrying out whole-process automation for industrial production processes of metallurgical, mine, building materials, chemical, coal and other industries.<br><br>
+							<a href="http://dfmc.com">More detail click here</a>
 						</p>
 
 					</div>
@@ -50,18 +50,24 @@
 				<div class="single_product_pics" >
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
-							<div class="single_product_image">
-								<div class="single_product_image_background" style="background-image:url(images/dickey_product.png)"></div>
+							<div class="single_product_image mid-product">
+								<div class="single_product_image_background" style="background-image:url(images/aztec_product.png)"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="product_details" >
 					<div class="product_details_title">
-						<h2>Name of Product</h2>
+						<h2 class="p-center">Aztec 600 (Continous Water) Iron Analyzer</h2>
 						<p>
-							Description of Aztec's Product<br>
-							<a href="http://new.abb.com">Click here for more info</a>
+							The Aztec 600 colorimetric iron analyzer provides reliable and accurate measurement of iron concentrations to improve drinking water quality and optimize chemical usage. Benefits:<br>
+							- Analysis of up to 3 sample streams<br>
+						    - Automatic 2-point calibration<br>
+							 - Automatic background color compensation<br>
+							 - Automatic sample dilution to maximize range<br>
+							 - Self-cleaning measurement system<br>
+							<br><br>
+							<a href="http://new.abb.com">More detail click here</a>
 						</p>
 
 					</div>

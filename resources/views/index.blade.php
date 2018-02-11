@@ -12,11 +12,11 @@
 		<div id="demo" class="carousel slide" data-ride="carousel">
 
 		  <!-- Indicators -->
-		  <ul class="carousel-indicators">
+<!-- 		  <ul class="carousel-indicators">
 		    <li data-target="#demo" data-slide-to="0" class="active"></li>
 		    <li data-target="#demo" data-slide-to="1"></li>
 		    <li data-target="#demo" data-slide-to="2"></li>
-		  </ul>
+		  </ul> -->
 		  
 		  <!-- The slideshow -->
 		  <div class="carousel-inner">
@@ -25,7 +25,7 @@
 					<div class="container fill_height">
 						<div class="row align-items-center fill_height">
 							<div class="col">
-								<div class="main_slider_content">
+								<div class="main_slider_content" style="margin-top: -10%;">
 									<h6 style="color: white;">PT. GARDA <span style="color: #fe4c50;"><b> TEKNIKA</b> </span></h6>
 									<h1 style="color: white;">Higher <br>Profitability</h1>
 									<div class="red_button shop_now_button"><a href="#type-product">shop now</a></div>
@@ -35,7 +35,7 @@
 					</div>
 				</div>
 		    </div>
-		    <div class="carousel-item">
+		   <!--  <div class="carousel-item">
 		      <div class="main_slider" style="background-image:url(images/slider_2.jpg)">
 					<div class="container fill_height">
 						<div class="row align-items-center fill_height">
@@ -64,21 +64,29 @@
 						</div>
 					</div>
 				</div>
-		    </div>
+		    </div> -->
 		  </div>
 		  
 		  <!-- Left and right controls -->
-		  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+<!-- 		  <a class="carousel-control-prev" href="#demo" data-slide="prev">
 		    <span class="carousel-control-prev-icon"></span>
 		  </a>
 		  <a class="carousel-control-next" href="#demo" data-slide="next">
 		    <span class="carousel-control-next-icon"></span>
-		  </a>
+		  </a> -->
 		</div>
 
 	<!-- Banner -->
-
-	<div class="banner" style="margin-top: 6%;" id="type-product">
+	<div class="container" id="type-product">
+			<div class="row">
+				<div class="col text-center" >
+					<div class="section_title">
+						<h2 style="margin-top: 15%;">Our Products</h2>
+					</div>
+				</div>
+			</div>
+	</div>
+	<div class="banner" style="margin-top: 4%;" >
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
@@ -110,9 +118,23 @@
 					</div>
 				</div>
 				<div class="col-md-4">
+					<div class="banner_item align-items-center" style="background-image:url(images/banner_6.jpg)">
+						<div class="banner_category">
+							<a href="#">Measurement System</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
 					<div class="banner_item align-items-center" style="background-image:url(images/banner_3.jpg)">
 						<div class="banner_category">
 							<a href="#">Education</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="banner_item align-items-center" style="background-image:url(images/banner_7.jpg)">
+						<div class="banner_category">
+							<a href="#">Energy</a>
 						</div>
 					</div>
 				</div>

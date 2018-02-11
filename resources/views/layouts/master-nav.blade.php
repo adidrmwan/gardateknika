@@ -50,13 +50,15 @@
   												  <li><a class="dropdown-item" href="nondistructivetest">Non Distructive Test (NDT)</a></li>
 												  <li><a class="dropdown-item" href="agriculture">Agriculture</a></li>
 												  <li><a class="dropdown-item" href="automation_system">Automation System</a></li>
-												  <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Education</a>
+												  <li><a class="dropdown-item" href="measurement_system">Measurement System</a></li>
+												  <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Education &nbsp &nbsp </a>
 												    <ul class="dropdown-menu">
 												      <li><a class="dropdown-item" href="Engineering">Engineering</a></li>
 												      <li><a class="dropdown-item" href="medicine">Medicine</a></li>
 												      <li><a class="dropdown-item" href="foodtech">Food Tech</a></li>
 											        </ul>
 											      </li>
+											      <li> <a class="dropdown-item" href="energy"> Energy &nbsp</a> </li>
 										    </ul>
 							 		    </li>
 							 		    <li><a href="contact">contact us</a> </li>

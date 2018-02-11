@@ -27,6 +27,8 @@ Route::get('/automation_system','PageController@automation_system')->name('autom
 Route::get('/Engineering','PageController@Engineering')->name('Engineering');
 Route::get('/medicine','PageController@medicine')->name('medicine');
 Route::get('/foodtech','PageController@foodtech')->name('foodtech');
+Route::get('/measurement_system','PageController@measurement_system')->name('measurement_system');
+Route::get('/energy','PageController@energy')->name('energy');
 
 
 // Route::get('/language')
