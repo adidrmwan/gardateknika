@@ -28,7 +28,17 @@
 		<div class="container" style="margin-top: -100px;">
 
 		<div class="row">
-			<div class="col-lg-6" >
+
+			<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href="http://light-salt.kr">	<div class="single_product_image_background" style="background-image:url(images/salt_logo.png)"></div></a>
+					</div>
+				</div>
+				
+			</div>
+
+			<div class="col-lg-4" >
 				
 				<div class="single_product_pics" >
 					<div class="row">
@@ -51,6 +61,183 @@
 
 					</div>
 				</div>
+			</div>
+			<div class="col-lg-4" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image mid-product" >
+								<div class="single_product_image_background" style="background-image:url(images/salt_product1.png)"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2 class="p-center">Charpy Type Impact Tester ST-300</h2>
+						<p>
+							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
+							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							 <br><br>
+							<a href="http://light-salt.kr">More detail click here</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image mid-product" >
+								<div class="single_product_image_background" style="background-image:url(images/salt_product2.png)"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2 class="p-center">SALT GRIP ACCESSORIES</h2>
+						<p>
+							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
+							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							 <br><br>
+							<a href="http://light-salt.kr">More detail click here</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+						<div class="col-lg-4" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image mid-product" >
+								<div class="single_product_image_background" style="background-image:url(images/salt_product3.png)"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2 class="p-center">Hydraulic Compresiom Testing Machine ST-1004</h2>
+						<p>
+							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
+							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							 <br><br>
+							<a href="http://light-salt.kr">More detail click here</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+						<div class="col-lg-4" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image mid-product" >
+								<div class="single_product_image_background" style="background-image:url(images/salt_product4.png)"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2 class="p-center">Hydraulic Universal Testing Machine Serie ST-1004</h2>
+						<p>
+							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
+							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							 <br><br>
+							<a href="http://light-salt.kr">More detail click here</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image mid-product" >
+								<div class="single_product_image_background" style="background-image:url(images/salt_product5.png)"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2 class="p-center">Servo Fatigue Testing ST-1005 chamber</h2>
+						<p>
+							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
+							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							 <br><br>
+							<a href="http://light-salt.kr">More detail click here</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image mid-product" >
+								<div class="single_product_image_background" style="background-image:url(images/salt_product6.png)"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2 class="p-center">Universal Testing Machine Serie ST-1000 Series</h2>
+						<p>
+							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
+							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							 <br><br>
+							<a href="http://light-salt.kr">More detail click here</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image mid-product" >
+								<div class="single_product_image_background" style="background-image:url(images/salt_product7.png)"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2 class="p-center">Universal Testing Machine Serie ST-1003 chamber</h2>
+						<p>
+							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
+							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							 <br><br>
+							<a href="http://light-salt.kr">More detail click here</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href="http://novotest.biz">	<div class="single_product_image_background" style="background-image:url(images/novotest_logo.png)"></div></a>
+					</div>
+				</div>
+				
 			</div>
 
 			<div class="col-lg-6">
@@ -75,6 +262,15 @@
 					</div>
 				</div>
 			</div>
+
+			<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href="http://rubber-testing.com">	<div class="single_product_image_background" style="background-image:url(images/montech_logo.png)"></div></a>
+					</div>
+				</div>
+				
+			</div>
 			<div class="col-lg-6">
 				<div class="single_product_pics">
 					<div class="row">
@@ -97,6 +293,14 @@
 
 					</div>
 				</div>
+			</div>
+			<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href="http://llfurnace.com">	<div class="single_product_image_background" style="background-image:url(images/L&Lfurnace_logo.png)"></div></a>
+					</div>
+				</div>
+				
 			</div>
 			<div class="col-lg-6">
 				<div class="single_product_pics">

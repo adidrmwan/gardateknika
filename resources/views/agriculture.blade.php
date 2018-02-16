@@ -26,6 +26,14 @@
 	</div>
 		<div class="container" style="margin-top: -80px;">
 			<div class="row">
+				<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href="http://seedburo.com">	<div class="single_product_image_background" style="background-image:url(images/seedburo_logo.png)"></div></a>
+					</div>
+				</div>
+				
+			</div>
 			<div class="col-lg-6" >
 				<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
@@ -48,6 +56,14 @@
 					</div>
 				</div>
 			</div>
+			<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href="http://dickey-john.com">	<div class="single_product_image_background" style="background-image:url(images/dickey_logo.png)"></div></a>
+					</div>
+				</div>
+				
+			</div>
 			<div class="col-lg-6" >
 				
 				<div class="single_product_pics" >
@@ -69,6 +85,14 @@
 
 					</div>
 				</div>
+			</div>
+			<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href="http://kett.com">	<div class="single_product_image_background" style="background-image:url(images/kett_logo.png)"></div></a>
+					</div>
+				</div>
+				
 			</div>
 			<div class="col-lg-6" >
 				

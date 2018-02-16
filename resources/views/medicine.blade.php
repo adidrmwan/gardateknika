@@ -26,6 +26,14 @@
 	</div>
 		<div class="container" style="margin-top: -80px;">
 			<div class="row">
+				<div class="col-lg-12">
+					<div class="col-lg-12 image_col order-lg-2 order-1">
+						<div class="single_product_image mid-product" >
+						<a target="_blank" href="http://labequipmentssuppliers.com">	<div class="single_product_image_background" style="background-image:url(images/zeedo_logo.png)"></div></a>
+						</div>
+					</div>
+					
+				</div>
 			<div class="col-lg-6" >
 				
 				<div class="single_product_pics" >

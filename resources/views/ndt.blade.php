@@ -26,6 +26,14 @@
 	</div>
 		<div class="container" style="margin-top: -80px;">
 			<div class="row">
+				<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href=http://karldeutsch.de>	<div class="single_product_image_background" style="background-image:url(images/karl_logo.png)"></div></a>
+					</div>
+				</div>
+				
+			</div>
 				<div class="col-lg-6" >
 				
 				<div class="single_product_pics" >
@@ -48,6 +56,14 @@
 					</div>
 				</div>
 			</div>
+			<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href="http://eddyfi.com">	<div class="single_product_image_background" style="background-image:url(images/eddyfi_logo.png)"></div></a>
+					</div>
+				</div>
+				
+			</div>
 			<div class="col-lg-6" >
 				
 				<div class="single_product_pics" >
@@ -63,12 +79,20 @@
 					<div class="product_details_title">
 						<h2 class="p-center">Pulse Eddy Current (PEC) Reinvented</h2>
 						<p>
-							Discover the New Dedicated Solution to Detect CUI (Corrosion Under Insulation) Under Galvanized Steel Cladding (Lyft Version 1.3). Together with Lyft 1.3, the new patent-pending PEC-GS probe allows for in-service inspection of insulated structures protected with galvanized steel weather jackets, such as those found in refineries in many countries. The solution combines all the existing features from previous versions, such as the compensated wall thickness (CWT) tool, noise immunity, SmartPULSE™, and more. more information, ceck link https://www.eddyfi.com/lyft/<br> <br>
+							Discover the New Dedicated Solution to Detect CUI (Corrosion Under Insulation) Under Galvanized Steel Cladding (Lyft Version 1.3). Together with Lyft 1.3, the new patent-pending PEC-GS probe allows for in-service inspection of insulated structures protected with galvanized steel weather jackets, such as those found in refineries in many countries. The solution combines all the existing features from previous versions, such as the compensated wall thickness (CWT) tool, noise immunity, SmartPULSE™, and more.<br> <br>
 							<a href="http://eddyfi.com">More detail click here</a>
 						</p>
 
 					</div>
 				</div>
+			</div>
+			<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href="http://yxlon.com">	<div class="single_product_image_background" style="background-image:url(images/yxlon_logo.png)"></div></a>
+					</div>
+				</div>
+				
 			</div>
 			<div class="col-lg-6" >
 				
@@ -93,6 +117,14 @@
 
 					</div>
 				</div>
+			</div>
+			<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href="http://efer.com">	<div class="single_product_image_background" style="background-image:url(images/efer_logo.png)"></div></a>
+					</div>
+				</div>
+				
 			</div>
 			<div class="col-lg-6" >
 				
