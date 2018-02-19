@@ -69,4 +69,10 @@ class PageController extends Controller
 		return view('energy');
 	}
 
+	public function dashboard()
+	{
+		return view('dashboard');
+	}
+
+
 }

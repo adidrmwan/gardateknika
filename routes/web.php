@@ -30,5 +30,7 @@ Route::get('/foodtech','PageController@foodtech')->name('foodtech');
 Route::get('/measurement_system','PageController@measurement_system')->name('measurement_system');
 Route::get('/energy','PageController@energy')->name('energy');
 
+Route::get('/dashboard','PageController@dashboard')->name('dashboard');
+
 
 // Route::get('/language')
