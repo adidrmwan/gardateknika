@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>AdminLTE 2 | Editors</title>
+  <title>Admin GardaTeknika</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -37,10 +37,8 @@
   <header class="main-header">
     <!-- Logo -->
     <a  class="logo">
-      <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>A</b>LT</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Admin</b>LTE</span>
+      <span class="logo-lg"><b>Admin</b></span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
@@ -87,16 +85,8 @@
         
         <li class="treeview active">
           <a href="#">
-            <i class="fa fa-edit"></i> <span>Forms</span>
-            <span class="pull-right-container">
-              <i class="fa fa-angle-left pull-right"></i>
-            </span>
+            <i class="fa fa-edit"></i> <span>post</span>
           </a>
-          <ul class="treeview-menu">
-            <li><a href="general.html"><i class="fa fa-circle-o"></i> General Elements</a></li>
-            <li><a href="advanced.html"><i class="fa fa-circle-o"></i> Advanced Elements</a></li>
-            <li class="active"><a href="editors.html"><i class="fa fa-circle-o"></i> Editors</a></li>
-          </ul>
         </li>
         
       </ul>
@@ -120,8 +110,8 @@
               <form>
                     <div class="box-body">
                       <div class="form-group">
-                        <label for="exampleInputEmail1">Judul</label>
-                        <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Masukkan Judul">
+                        <label for="judul">Judul</label>
+                        <input type="text" class="form-control" id="judul" placeholder="Masukkan Judul">
                       </div>
                       <div class="form-group">
                         <label for="exampleInputFile">Gambar</label>

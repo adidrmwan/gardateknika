@@ -17,7 +17,7 @@
 						<h4>Products</h4>
 						<ul>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>
-								<a href="#">Material Research</a>
+								<a href="materialresearch">Material Research</a>
 								<ul style="margin-left: 15px;">
 									<li><i class="fa fa-circle-o" aria-hidden="true"></i>
 										<a href="material_testing">Material Testing</a>

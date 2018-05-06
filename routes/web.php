@@ -29,6 +29,7 @@ Route::get('/medicine','PageController@medicine')->name('medicine');
 Route::get('/foodtech','PageController@foodtech')->name('foodtech');
 Route::get('/measurement_system','PageController@measurement_system')->name('measurement_system');
 Route::get('/energy','PageController@energy')->name('energy');
+Route::get('/materialresearch','PageController@materialresearch')->name('materialresearch');
 
 Route::get('/dashboard','PageController@dashboard')->name('dashboard');
 

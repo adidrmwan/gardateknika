@@ -74,5 +74,9 @@ class PageController extends Controller
 		return view('dashboard');
 	}
 
+	public function materialresearch()
+	{
+		return view('materialresearch');
+	}
 
 }
