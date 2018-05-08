@@ -32,7 +32,7 @@
 			<div class="col-lg-12">
 				<div class="col-lg-12 image_col order-lg-2 order-1">
 					<div class="single_product_image mid-product" >
-					<a target="_blank" href="http://light-salt.kr">	<div class="single_product_image_background" style="background-image:url(images/salt_logo.png)"></div></a>
+					<a target="_blank" href="https://www.zwick.com/static-materials-testing-machine">	<div class="single_product_image_background" style="background-image:url(images/zwick_logo.png); "></div></a>
 					</div>
 				</div>
 				
@@ -44,19 +44,21 @@
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
 							<div class="single_product_image mid-product" >
-								<div class="single_product_image_background" style="background-image:url(images/salt_product.png)"></div>
+								<div class="single_product_image_background" style="background-image:url(images/zwick_product.png)"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="product_details" >
 					<div class="product_details_title">
-						<h2 class="p-center">Universal Testing Machine (UTM) ST 1001 Series</h2>
+						<h2 class="p-center">Dynamic and Fatigue Testing Systems</h2>
 						<p>
-							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
-							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							At Zwick we use various physical drive principles for our dynamic testing machines. Each has its specific advantages and areas of application. We can offer you the optimal solution based on your needs.<br>
+							1. Servo-Hydraulic Testing Machines<br>
+							2. Vibrophores <br>
+							3. High-Speed Testing Machines
 							 <br><br>
-							<a href="http://light-salt.kr">More detail click here</a>
+							<a href="https://www.zwick.com/static-materials-testing-machine">More detail click here</a>
 						</p>
 
 					</div>
@@ -68,19 +70,24 @@
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
 							<div class="single_product_image mid-product" >
-								<div class="single_product_image_background" style="background-image:url(images/salt_product1.png)"></div>
+								<div class="single_product_image_background" style="background-image:url(images/zwick_product1.png)"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="product_details" >
 					<div class="product_details_title">
-						<h2 class="p-center">Charpy Type Impact Tester ST-300</h2>
+						<h2 class="p-center">Static Materials Testing Machines</h2>
 						<p>
-							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
-							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							Our static materials testing machines are designed specifically for tensile, compression, and flexure tests, as well as shear and torsion tests, fulfilling the highest requirements of the materials and components testing industry. Our portfolio includes:
+							<br>
+							1.  Universal testing machines up to 2,500 kN <br>
+							2.  Creep testing systems and machines<br>
+							3.  Torsion testing machines<br>
+							4.  Biaxial testing machines<br>
+							5.  Sheet metal testing machines
 							 <br><br>
-							<a href="http://light-salt.kr">More detail click here</a>
+							<a href="https://www.zwick.com/static-materials-testing-machine">More detail click here</a>
 						</p>
 
 					</div>
@@ -92,67 +99,86 @@
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
 							<div class="single_product_image mid-product" >
-								<div class="single_product_image_background" style="background-image:url(images/salt_product2.png)"></div>
+								<div class="single_product_image_background" style="background-image:url(images/zwick_product2.png)"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="product_details" >
 					<div class="product_details_title">
-						<h2 class="p-center">SALT GRIP ACCESSORIES</h2>
+						<h2 class="p-center">Melt Flow Indexers</h2>
 						<p>
-							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
-							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							AMelt flow tests are a simple method of characterizing the flow properties of a plastic melted mass. This test method is widely used, especially in quality assurance and goods inwards testing. The demands placed on the extrusion plastometer vary according to which processing stage in the plastics industry is involved.
+							 <br>
+							 1. Cflow <br>
+							 2. Mflow<br>
+							 3. Aflow
 							 <br><br>
-							<a href="http://light-salt.kr">More detail click here</a>
+							<a href="https://www.zwick.com/static-materials-testing-machine">More detail click here</a>
 						</p>
 
 					</div>
 				</div>
 			</div>
-						<div class="col-lg-4" >
+				<div class="col-lg-4" >
 				
 				<div class="single_product_pics" >
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
 							<div class="single_product_image mid-product" >
-								<div class="single_product_image_background" style="background-image:url(images/salt_product3.png)"></div>
+								<div class="single_product_image_background" style="background-image:url(images/zwick_product3.png)"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="product_details" >
 					<div class="product_details_title">
-						<h2 class="p-center">Hydraulic Compresiom Testing Machine ST-1004</h2>
+						<h2 class="p-center">Hardness Testing Machines </h2>
 						<p>
-							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
-							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							The Zwick Roell product portfolio includes a full range of hardness testing equipment for use on metals, plastics, rubber and special materials to all the principal and established standards employed worldwide.<br>
+							1. Universal Hardness Testing Machines<br>
+							2. Vickers Hardness Testers<br>
+							3. Rockwell Hardness Testers<br>
+							4. Hardness Testers for Instrumented Indentation Tests<br>
+							5. Shore/IRHD Hardness Testers<br>
+							6. Portable Hardness Testers
+
 							 <br><br>
-							<a href="http://light-salt.kr">More detail click here</a>
+							<a href="https://www.zwick.com/static-materials-testing-machine">More detail click here</a>
 						</p>
 
 					</div>
 				</div>
 			</div>
-						<div class="col-lg-4" >
+
+			<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href="http://www.bareiss.de/en/produkte/haertepruefung/index.php">	<div class="single_product_image_background" style="background-image:url(images/bareiss_logo.png); "></div></a>
+					</div>
+				</div>
+				
+			</div>
+
+			<div class="col-lg-4" >
 				
 				<div class="single_product_pics" >
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
 							<div class="single_product_image mid-product" >
-								<div class="single_product_image_background" style="background-image:url(images/salt_product4.png)"></div>
+								<div class="single_product_image_background" style="background-image:url(images/bareiss_product.png)"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="product_details" >
 					<div class="product_details_title">
-						<h2 class="p-center">Hydraulic Universal Testing Machine Serie ST-1004</h2>
+						<h2 class="p-center">Digitest II</h2>
 						<p>
-							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
-							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							digi test II - a modularized tester for Shore, IRHD and VLRH: The digi test II consist of 4 major components: the test stand, the loading module (pick-up bracket), the electronic unit and the interchangeable measuing unit for methods of Shore, IRHD and VLRH. STANDARDS: DIN ISO 7619, DIN ISO 48, DIN EN ISO 868, NF EN ISO 868, ASTM D 2240, BS 903 Part. A 26, NF T 46-003, ASTM D 1415, DIN ISO 27588
+
 							 <br><br>
-							<a href="http://light-salt.kr">More detail click here</a>
+							<a href="http://www.bareiss.de/en/produkte/haertepruefung/index.php">More detail click here</a>
 						</p>
 
 					</div>
@@ -164,19 +190,19 @@
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
 							<div class="single_product_image mid-product" >
-								<div class="single_product_image_background" style="background-image:url(images/salt_product5.png)"></div>
+								<div class="single_product_image_background" style="background-image:url(images/bareiss_product1.png)"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="product_details" >
 					<div class="product_details_title">
-						<h2 class="p-center">Servo Fatigue Testing ST-1005 chamber</h2>
+						<h2 class="p-center">Ball Rebound Tester</h2>
 						<p>
-							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
-							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+							Ranges of application: for measuring the rebound resilience of polymer foams. STANDARDS : DIN EN ISO 8307 / ASTM D 3574 
+
 							 <br><br>
-							<a href="http://light-salt.kr">More detail click here</a>
+							<a href="http://www.bareiss.de/en/produkte/haertepruefung/index.php">More detail click here</a>
 						</p>
 
 					</div>
@@ -188,19 +214,21 @@
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
 							<div class="single_product_image mid-product" >
-								<div class="single_product_image_background" style="background-image:url(images/salt_product6.png)"></div>
+								<div class="single_product_image_background" style="background-image:url(images/bareiss_product2.png)"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="product_details" >
 					<div class="product_details_title">
-						<h2 class="p-center">Universal Testing Machine Serie ST-1000 Series</h2>
-						<p>
-							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
-							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+						<h2 class="p-center">HPE II Barcol</h2>
+						<p> Advantages of the Barcol tester Display with two lines gives information about test series, measuring process, result and number of saved results. 
+
+							 <br>
+							 1. Resolution 1 Barcol <br>
+							 2. Standards : DIN EN 59, ASTM D 2583
 							 <br><br>
-							<a href="http://light-salt.kr">More detail click here</a>
+							<a href="http://www.bareiss.de/en/produkte/haertepruefung/index.php">More detail click here</a>
 						</p>
 
 					</div>
@@ -212,24 +240,47 @@
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
 							<div class="single_product_image mid-product" >
-								<div class="single_product_image_background" style="background-image:url(images/salt_product7.png)"></div>
+								<div class="single_product_image_background" style="background-image:url(images/bareiss_product3.png)"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="product_details" >
 					<div class="product_details_title">
-						<h2 class="p-center">Universal Testing Machine Serie ST-1003 chamber</h2>
-						<p>
-							As material property tester for test of physical characteristic of various materials such as metal, plastic, bio, composite, wire, paper and film, rubber, small automobile parts, electronic equipment, aerospace, fiber etc. <br>
-							PT. GARDA TEKNIKA as the Authorize Distributor in Indonesia present : SALT Servo Motor Universal Testing Machine (UTM) ST-1001 series and Hydraulic Universal Testing Machine ST-1004 provide the process of test, Analysis of data and various of test results suited to tester's requirement. SALT Also provides other Mecahnical Testing Instrument such as : Compression Testing Machine, Hydraulic Servo Type Fatigue Testing Machine, Charpy and Izod Impact Tester and etc. 
+						<h2 class="p-center">HPE II Pusey & Jones</h2>
+						<p>"Standard-hardness test: Hardness determination on rubber- and rubberlike materials; rubber rollers of the paper industry. STANDARD: ISO 7267-3, ASTM D 531"
 							 <br><br>
-							<a href="http://light-salt.kr">More detail click here</a>
+							<a href="http://www.bareiss.de/en/produkte/haertepruefung/index.php">More detail click here</a>
 						</p>
 
 					</div>
 				</div>
 			</div>
+			<div class="col-lg-4" >
+				
+				<div class="single_product_pics" >
+					<div class="row">
+						<div class="col-lg-12 image_col order-lg-2 order-1">
+							<div class="single_product_image mid-product" >
+								<div class="single_product_image_background" style="background-image:url(images/bareiss_product4.png)"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="product_details" >
+					<div class="product_details_title">
+						<h2 class="p-center">Hardness testers for SHORE</h2>
+						<p>
+							Bareiss HP Series is available in different Shore and non-Shore  scales and with the possibility of customized pressser foot to suit different requirements. Optional Models : HP; HPE-II & HPE-III
+							 <br><br>
+							<a href="http://www.bareiss.de/en/produkte/haertepruefung/index.php">More detail click here</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+				
+
 
 			<div class="col-lg-12">
 				<div class="col-lg-12 image_col order-lg-2 order-1">

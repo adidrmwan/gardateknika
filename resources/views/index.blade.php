@@ -20,8 +20,8 @@
 						<div class="row align-items-center fill_height">
 							<div class="col">
 								<div class="main_slider_content" style="margin-top: -10%;">
-									<h6 style="color: white;">PT. GARDA SOLUSI <span style="color: #fe4c50;"><b> MULTI TEKNIKA</b> </span></h6>
-									<h1 style="color: white;">Higher <br>Profitability</h1>
+									<h6 style="color: white;"><span style="color: #fe4c50;"><b>GARDA</b></span> <span style="text-transform: lowercase;"> solusi multi </span> <span style="color: #fe4c50;"><b> TEKNIKA</b> </span></h6>
+									<h1 style="color: white;">Your Excellent <br>Solution</h1>
 									<div class="red_button shop_now_button"><a href="#type-product">shop now</a></div>
 								</div>
 							</div>

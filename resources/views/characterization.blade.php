@@ -31,6 +31,46 @@
 			<div class="col-lg-12">
 				<div class="col-lg-12 image_col order-lg-2 order-1">
 					<div class="single_product_image mid-product" >
+					<a target="_blank" href="http://www.perkinelmer.com/product/frontier-mir-nir-spectrum-10-standard-l1280034">	<div class="single_product_image_background" style="background-image:url(images/perkin_logo.png)"></div></a>
+					</div>
+				</div>
+				
+			</div>
+			<div class="col-lg-12" >
+				<div class="product_details" >
+					<div class="product_details_title">
+						<p> the Frontier™ range of Fourier Transform IR spectrometers for superior spectroscopic performance in demanding applications. Powerful and adaptable, the Frontier meets all your current analysis needs and can be expanded as your research goals evolve.
+							<br><br>
+							<a href="http://www.perkinelmer.com/product/frontier-mir-nir-spectrum-10-standard-l1280034">More detail click here</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
+					<a target="_blank" href="https://www.thermofisher.com/order/catalog/product/MICROPHAZIRAG?SID=srch-srp-MICROPHAZIRAG">	<div class="single_product_image_background" style="background-image:url(images/thermo_logo.png)"></div></a>
+					</div>
+				</div>
+				
+			</div>
+			<div class="col-lg-12" >
+				<div class="product_details" >
+					<div class="product_details_title">
+						<p> Thermo Scientific™ microPHAZIR™ Series Analyzer is an NIR spectroscopy tool that rapidly screens and identifies a variety of Incoming raw material identification, QC, QA,  on-site to streamline inspection without compromising accuracy and quality, etc. 
+							<br><br>
+							<a href="https://www.thermofisher.com/order/catalog/product/MICROPHAZIRAG?SID=srch-srp-MICROPHAZIRAG">More detail click here</a>
+						</p>
+
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-12">
+				<div class="col-lg-12 image_col order-lg-2 order-1">
+					<div class="single_product_image mid-product" >
 					<a target="_blank" href="http://pmiapp.com">	<div class="single_product_image_background" style="background-image:url(images/pmi_logo.png)"></div></a>
 					</div>
 				</div>

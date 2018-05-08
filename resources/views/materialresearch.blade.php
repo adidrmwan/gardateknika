@@ -32,7 +32,7 @@
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
 							<div class="single_product_image mid-product" >
-								<div class="single_product_image_background" style="background-image:url(images/zeedo_product.png)"></div>
+								<div class="single_product_image_background" style="background-image:url(images/material_testing.png)"></div>
 							</div>
 						</div>
 					</div>
@@ -40,7 +40,7 @@
 				<div class="product_details" >
 					<div class="product_details_title">
 						<div class="banner_category">
-							<a href="materialresearch" style="font-size: 30px;">MATERIAL TESTING</a>
+							<a href="material_testing" style="font-size: 30px;">MATERIAL TESTING</a>
 						</div>
 
 					</div>
@@ -52,7 +52,7 @@
 					<div class="row">
 						<div class="col-lg-12 image_col order-lg-2 order-1">
 							<div class="single_product_image mid-product" >
-								<div class="single_product_image_background" style="background-image:url(images/zeedo2_product.png)"></div>
+								<div class="single_product_image_background" style="background-image:url(images/material_characterization.png)"></div>
 							</div>
 						</div>
 					</div>
@@ -60,7 +60,7 @@
 				<div class="product_details" >
 					<div class="product_details_title">
 						<div class="banner_category">
-							<a href="materialresearch" style="font-size: 30px;">MATERIAL CHARACTERIZATION</a>
+							<a href="material_characterization" style="font-size: 30px;">MATERIAL CHARACTERIZATION</a>
 						</div>
 
 

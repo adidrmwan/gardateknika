@@ -21,7 +21,7 @@
 					<div class="col-lg-12 text-right">
 						<div class="logo_container">
 							<img src="images/logo.png" class="logo">
-							<a href="home">Garda<span>Teknika</span></a>
+							<a href="home"><span>Garda</span> <span style="text-transform: lowercase; color: black;"> solusi multi </span> <span> Teknika</span></a>
 						</div>
 							<nav class="navbar navbar-expand-lg">
 								<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
